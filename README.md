@@ -83,6 +83,3 @@ Backend project focused on RESTful APIs, authentication, authorization, and data
 
 ---
 
-<p align="center">
-  <i>Always learning, building, and exploring new technologies. 🚀</i>
-</p>
